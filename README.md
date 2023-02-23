@@ -4,7 +4,7 @@ This will contain all of the content provided by the teachers for the classes, s
 
 In order to download the contents on this github you can copy it using git clone, but notice that there is no need to download the ROOT folder.
 ```
-git clone https://github.com/Switch-bot/TFPA
+git clone https://github.com/Switch-bot/TFPA-II
 ```
 
 ### Creating a git repository
